@@ -49,6 +49,8 @@ Model berbasis *Self-Attention* yang memproses gambar sebagai urutan *patch*.
 
 ## 📊 Hasil Eksperimen
 
+<img width="1000" height="1009" alt="image" src="https://github.com/user-attachments/assets/d6f1da5d-acc7-41cc-8ae8-259c54469a29" /> <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/6ce68fe7-cc0e-4089-abc7-0b36c5a030ad" />
+
 | Model | Akurasi | F1-Score (Weighted) | Kesimpulan |
 | :--- | :---: | :---: | :--- |
 | **FaceNet** | **93.0%** | **0.91** | ✅ Efektif |
