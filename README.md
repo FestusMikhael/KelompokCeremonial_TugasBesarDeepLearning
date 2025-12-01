@@ -80,6 +80,9 @@ Sebaliknya, model **Vision Transformer (ViT)** mengalami kesulitan dalam melakuk
 ## Link Model
 https://drive.google.com/drive/folders/1aXZk9zBGHk30i_F_aB47Rkj0O_f4SXFw?usp=sharing
 
+## Link Demo App
+https://huggingface.co/spaces/Kenneth16/Tubes_DeepLearning
+
 ---
 
 ## 👥 Kelompok Ceremonial
