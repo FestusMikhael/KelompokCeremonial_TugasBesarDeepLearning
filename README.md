@@ -77,6 +77,11 @@ Sebaliknya, model **Vision Transformer (ViT)** mengalami kesulitan dalam melakuk
 
 ---
 
+## Link Model
+https://drive.google.com/drive/folders/1aXZk9zBGHk30i_F_aB47Rkj0O_f4SXFw?usp=sharing
+
+---
+
 ## 👥 Kelompok Ceremonial
 
 1.  **Festus Mikhael** (122140087)
